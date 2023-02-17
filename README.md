@@ -1,5 +1,8 @@
-# port
-# this is an my portfolio i want add sothing spaecial in this portfolio and i want public somthing that help people 
-# make life easi
-# this is the ifrst task for the day
-# Be cool
+ I am Shubham Aher From Aurangabad (Sambhajinagar)
+ I Doing B.Tech In Production E From Veermata Jijabai Technological Institute Mumbai
+
+ # Misssion 
+  To Provide The Solution for Clients
+  I Want To become business Man 
+  
+  
